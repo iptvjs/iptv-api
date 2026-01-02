@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-01 18:10:54,https://cdn3.163189.xyz/163189/cctv13$订阅源
+2026-01-02 11:40:50,https://cdn3.163189.xyz/163189/cctv13$订阅源
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
@@ -11,8 +11,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 湖北卫视,https://live.chinacert.cftest5.cn/mg/?id=947472496$订阅源
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 东方卫视,https://live.chinacert.cftest5.cn/mg/?id=651632648$订阅源
-东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 东南卫视,https://live.chinacert.cftest5.cn/mg/?id=849116810$订阅源
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 海南卫视,https://live.chinacert.cftest5.cn/mg/?id=947472502$订阅源

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-15 19:25:12,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-07-17 19:18:39,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -9,6 +9,3 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 📡卫视频道,#genre#
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
-西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源
-新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
-云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源

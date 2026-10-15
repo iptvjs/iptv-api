@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-14 01:17:53,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
+2026-10-15 22:35:43,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源

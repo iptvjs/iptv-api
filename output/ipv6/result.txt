@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-11-16 00:44:49,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+2026-11-18 02:55:09,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📡卫视频道,#genre#
 甘肃卫视,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1854721069&k=ca557faf4d869ca5959ee951a3da2817$订阅源
